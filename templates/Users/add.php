@@ -13,6 +13,7 @@
     </aside>
     <div class="column-responsive column-80">
         <div class="users form content">
+            <h2>Test</h2>
             <?= $this->Form->create($user) ?>
             <fieldset>
                 <legend><?= __('Add User') ?></legend>
